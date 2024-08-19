@@ -39,6 +39,7 @@ src/
                     ├── Observador.java        # Interface do Observer
                     ├── Usuario.java           # Implementação do Observer (Usuário)
                     └── NotificadorLivro.java  # Gerencia as notificações de livros
+```
 
 ## Conclusão do Projeto
 
